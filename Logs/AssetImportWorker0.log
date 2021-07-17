@@ -259,3 +259,355 @@ Received Import Request.
 Start importing Assets/Sprites/background.png using Guid(c9328c984762ed64ea68815ef0bbb6ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf74556f32ef65bcd37244697503d48') in 0.125632 seconds 
   Import took 0.130634 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 83.476660 seconds.
+  path: Assets/Billiard Balls/Prefabs
+  artifactKey: Guid(3c261695be2f252449005e6bdd277f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs using Guid(3c261695be2f252449005e6bdd277f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ba3b11807964bbbe2029749b785638') in 0.004239 seconds 
+  Import took 0.009334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001850 seconds.
+  path: Assets/Billiard Balls/Prefabs
+  artifactKey: Guid(3c261695be2f252449005e6bdd277f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs using Guid(3c261695be2f252449005e6bdd277f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ba3b11807964bbbe2029749b785638') in 0.003579 seconds 
+  Import took 0.010421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044485 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_00.prefab
+  artifactKey: Guid(640ca4bdd51fe144c92f84869ed38b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_00.prefab using Guid(640ca4bdd51fe144c92f84869ed38b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3a62b5ada3a6aa4ae3e5ab6b36b6a15') in 0.276426 seconds 
+  Import took 0.281307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_14.prefab
+  artifactKey: Guid(81e8e685d19ac1240aacfa6d583c90ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_14.prefab using Guid(81e8e685d19ac1240aacfa6d583c90ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911f4e04a473a0179deecd4d5c2aaa71') in 0.026167 seconds 
+  Import took 0.031635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_10.prefab
+  artifactKey: Guid(863729df47221fc48bbc54050861a79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_10.prefab using Guid(863729df47221fc48bbc54050861a79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17807b9b792eb17e2b3b0838cc9794ae') in 0.025342 seconds 
+  Import took 0.031618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000803 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_07.prefab
+  artifactKey: Guid(735dcc8f0ff0e2640858b29a0e71d8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_07.prefab using Guid(735dcc8f0ff0e2640858b29a0e71d8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d5446eb5162f3dfa94a96f249a4a8da') in 0.025859 seconds 
+  Import took 0.030669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_08.prefab
+  artifactKey: Guid(2cec02ba13cf00c4b9d9a3a3f66fefac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_08.prefab using Guid(2cec02ba13cf00c4b9d9a3a3f66fefac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dfe338fa43e22c010aed0b5954ca519') in 0.028942 seconds 
+  Import took 0.034076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_02.prefab
+  artifactKey: Guid(b7d72080720b21640acdda5947bb0c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_02.prefab using Guid(b7d72080720b21640acdda5947bb0c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4fc9f57b2ba678daba2094c05e6c89') in 0.025996 seconds 
+  Import took 0.031523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_05.prefab
+  artifactKey: Guid(2be6c1e3c7abe5641aaffcd99851ce79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_05.prefab using Guid(2be6c1e3c7abe5641aaffcd99851ce79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4350ceb70f7cb6c175af868a851e204b') in 0.028897 seconds 
+  Import took 0.034311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_09.prefab
+  artifactKey: Guid(7badf29c8699cae42913fcc52133f2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_09.prefab using Guid(7badf29c8699cae42913fcc52133f2f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '564553af7ec6605362177f0f98dc7f2c') in 0.023491 seconds 
+  Import took 0.028498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_11.prefab
+  artifactKey: Guid(b03fd10a751322140ad28d574e0ce16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_11.prefab using Guid(b03fd10a751322140ad28d574e0ce16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90156d2768a34474b2fe57637f256d50') in 0.024995 seconds 
+  Import took 0.030126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_06.prefab
+  artifactKey: Guid(eed468e1149a474448da6a2aad140b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_06.prefab using Guid(eed468e1149a474448da6a2aad140b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86de823f44c9488c6a0de3b4a07e4e0e') in 0.026261 seconds 
+  Import took 0.031783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_04.prefab
+  artifactKey: Guid(f62b8523c61552045984174069aaa3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_04.prefab using Guid(f62b8523c61552045984174069aaa3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35f558dbe31aa5cdee8850ac94363458') in 0.025621 seconds 
+  Import took 0.031012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_13.prefab
+  artifactKey: Guid(f3eb3ad1c008dd14782b93a421e93596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_13.prefab using Guid(f3eb3ad1c008dd14782b93a421e93596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab1736799cb1f5bdd8a2a60befde9c3a') in 0.025185 seconds 
+  Import took 0.030166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_01.prefab
+  artifactKey: Guid(3a37232d1309fde41a4be547925d95a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_01.prefab using Guid(3a37232d1309fde41a4be547925d95a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6406d68ac723d150bcc7b7643aee4f5') in 0.033941 seconds 
+  Import took 0.039717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_12.prefab
+  artifactKey: Guid(86b74ed43f889e84fb57d70dba575ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_12.prefab using Guid(86b74ed43f889e84fb57d70dba575ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210d4e1bb3f0af4bc2ebe9d5f71c8a01') in 0.024693 seconds 
+  Import took 0.030024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_01.prefab
+  artifactKey: Guid(3a37232d1309fde41a4be547925d95a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_01.prefab using Guid(3a37232d1309fde41a4be547925d95a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6406d68ac723d150bcc7b7643aee4f5') in 0.016781 seconds 
+  Import took 0.022190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_03.prefab
+  artifactKey: Guid(6c4faccc8f28d1f4f9c5df9b3b574b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_03.prefab using Guid(6c4faccc8f28d1f4f9c5df9b3b574b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ff2edccf31dcc79baccfa2836652218') in 0.025437 seconds 
+  Import took 0.032105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Billiard Balls/Prefabs/Ball_15.prefab
+  artifactKey: Guid(17f7a86b0130db74fa1e1aa66e3127ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Prefabs/Ball_15.prefab using Guid(17f7a86b0130db74fa1e1aa66e3127ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae76bad2e3b9b8df1236af4cbf760b0') in 0.024688 seconds 
+  Import took 0.029316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.168357 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa27944bdea339c97c39027c7eea529c') in 0.013938 seconds 
+  Import took 0.018728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.543855 seconds.
+  path: Assets/Scenes/major.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/major.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a731cdc84d663e64247907c30f93acf4') in 0.012877 seconds 
+  Import took 0.017257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.882067 seconds.
+  path: Assets/Billiard Balls/Models/Ball_UV.fbx
+  artifactKey: Guid(97a4ef8c1c6400b4a8d59f5449acb828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Ball_UV.fbx using Guid(97a4ef8c1c6400b4a8d59f5449acb828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4742ddd940c875a8aef7bb9ceaa9dd7d') in 0.361267 seconds 
+  Import took 0.366434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.905008 seconds.
+  path: Assets/Billiard Balls/Models/Materials
+  artifactKey: Guid(ff85cee3a708d914a8d6cedb76205f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials using Guid(ff85cee3a708d914a8d6cedb76205f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9059258a46758149670da269c64bec38') in 0.011624 seconds 
+  Import took 0.016835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.249456 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_00.mat
+  artifactKey: Guid(8cc2b025ccda83346ad105b7ef456779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_00.mat using Guid(8cc2b025ccda83346ad105b7ef456779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2112ae26ab91c184a18e7892d5685211') in 0.039022 seconds 
+  Import took 0.043675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_08.mat
+  artifactKey: Guid(c45b003771be722498854b1b83030b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_08.mat using Guid(c45b003771be722498854b1b83030b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c6c92c1ae9b08b96123a5c51f45e78') in 0.025350 seconds 
+  Import took 0.030103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_13.mat
+  artifactKey: Guid(c24369514e9a13542a953eea0b4cd197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_13.mat using Guid(c24369514e9a13542a953eea0b4cd197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab6d1601674c807868097b18b2e80ee') in 0.021908 seconds 
+  Import took 0.026620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_12.mat
+  artifactKey: Guid(a342ca42b78d5bc49911f90c03228ca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_12.mat using Guid(a342ca42b78d5bc49911f90c03228ca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deb932f13b09b7e125d71166ab286c4c') in 0.025966 seconds 
+  Import took 0.030961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_02.mat
+  artifactKey: Guid(e4e344c0eb86e2a4e943609b415db00a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_02.mat using Guid(e4e344c0eb86e2a4e943609b415db00a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ab9750d081e72576d654bb9db31f437') in 0.020782 seconds 
+  Import took 0.026396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_04.mat
+  artifactKey: Guid(a82b3c246c535c143849756fcf4cacc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_04.mat using Guid(a82b3c246c535c143849756fcf4cacc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ede2271354047037836ec24fc15869') in 0.022462 seconds 
+  Import took 0.028358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_06.mat
+  artifactKey: Guid(13ff31df56b8b1745bb663dcb361accd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_06.mat using Guid(13ff31df56b8b1745bb663dcb361accd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881f8e158ae496ebc8197c63fedb6d89') in 0.021664 seconds 
+  Import took 0.027141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_09.mat
+  artifactKey: Guid(a260a30e2f2556e4fb72a36cde4408d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_09.mat using Guid(a260a30e2f2556e4fb72a36cde4408d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16584e223850cb2ac4fe9d285f36fab4') in 0.022747 seconds 
+  Import took 0.027692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_03.mat
+  artifactKey: Guid(5b9eab9c7d244474989829165edfe900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_03.mat using Guid(5b9eab9c7d244474989829165edfe900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9a469098904b8ec1a808d5d69d875c') in 0.025418 seconds 
+  Import took 0.030146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_15.mat
+  artifactKey: Guid(104645244d22f094fa356d2faa7b0bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_15.mat using Guid(104645244d22f094fa356d2faa7b0bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35da0f1beeb6a374e18a8870c2825665') in 0.020614 seconds 
+  Import took 0.026198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_11.mat
+  artifactKey: Guid(32f6e8cce36be524395e9b3ea787a259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_11.mat using Guid(32f6e8cce36be524395e9b3ea787a259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18a1878c737e9780a89722de25410f6e') in 0.026551 seconds 
+  Import took 0.031072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_10.mat
+  artifactKey: Guid(9d87bdf30f0c0174a914b5f3aaeec328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_10.mat using Guid(9d87bdf30f0c0174a914b5f3aaeec328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bffd855808a289c64b682b005b6cfb4') in 0.020959 seconds 
+  Import took 0.025401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_14.mat
+  artifactKey: Guid(97a36fe0242d31d4397e8b272635ebfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_14.mat using Guid(97a36fe0242d31d4397e8b272635ebfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '259cc103d68fb96a433dbe2f96695f48') in 0.021197 seconds 
+  Import took 0.026432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_01.mat
+  artifactKey: Guid(b1b8b6a1924f0e541958f5f3c0f8aca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_01.mat using Guid(b1b8b6a1924f0e541958f5f3c0f8aca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0392c771b577ec5cec1056c0f435fb5b') in 0.022219 seconds 
+  Import took 0.026990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_05.mat
+  artifactKey: Guid(f9b0f1c7dc8bdc44fa2beab1a14b1dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_05.mat using Guid(f9b0f1c7dc8bdc44fa2beab1a14b1dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033be5acb45b63741a47e6020eabbe0e') in 0.020423 seconds 
+  Import took 0.025422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Billiard Balls/Models/Materials/Ball_07.mat
+  artifactKey: Guid(bb3b3008af51c56448783fdd2c3045bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models/Materials/Ball_07.mat using Guid(bb3b3008af51c56448783fdd2c3045bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e33bd78d35ea9c253d6e3938657607e') in 0.024146 seconds 
+  Import took 0.029877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.379217 seconds.
+  path: Assets/Billiard Balls/Models
+  artifactKey: Guid(304c970631dc36147a7fd9e021a0d97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Billiard Balls/Models using Guid(304c970631dc36147a7fd9e021a0d97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5642876d248f73017ccddce033fff4') in 0.011187 seconds 
+  Import took 0.015514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.269182 seconds.
+  path: Assets/Scenes/InGame.unity
+  artifactKey: Guid(4bc6032081ca5a44aa87a9f78e92438c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/InGame.unity using Guid(4bc6032081ca5a44aa87a9f78e92438c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49eab103992d2b8ea07a0e4f8a754bf6') in 0.010841 seconds 
+  Import took 0.015404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000670 seconds.
+  path: Assets/Scenes/InGame.unity
+  artifactKey: Guid(4bc6032081ca5a44aa87a9f78e92438c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/InGame.unity using Guid(4bc6032081ca5a44aa87a9f78e92438c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49eab103992d2b8ea07a0e4f8a754bf6') in 0.004567 seconds 
+  Import took 0.009866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.202613 seconds.
+  path: Assets/Scenes/menu.unity
+  artifactKey: Guid(a7865ae073962f945a3c4c4a9e1a3abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu.unity using Guid(a7865ae073962f945a3c4c4a9e1a3abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c4ae2d4e5b0f033bf8f34c98463b4e') in 0.012607 seconds 
+  Import took 0.016853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.783023 seconds.
+  path: Assets/Scenes/menu.unity
+  artifactKey: Guid(a7865ae073962f945a3c4c4a9e1a3abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/menu.unity using Guid(a7865ae073962f945a3c4c4a9e1a3abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae3c1792c9827ca786de8f42b0240c1b') in 0.004600 seconds 
+  Import took 0.010712 seconds .
+
