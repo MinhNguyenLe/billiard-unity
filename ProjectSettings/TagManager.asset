@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: dfsdf
+  - name: hold
     uniqueID: 2773513263
+    locked: 0
+  - name: ball
+    uniqueID: 3388673695
     locked: 0
